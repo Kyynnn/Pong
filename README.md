@@ -5,7 +5,7 @@ The only difference is that there is no net between the table.
 
 Rules:
 
-Two players will try to force the ball to the opposite side of the table.
+Two players facing at opposite ends will try to force the ball to the opposite side of the table.
 
 Each time the ball bounces off a racket,
 the rackets' and the ball's move speed increases.
